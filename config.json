@@ -1,0 +1,15 @@
+{
+  "name": "While True Script",
+  "type": "app",
+  "categories": [
+    "development"
+  ],
+  "description": "Used to create infinite task for debug",
+  "docker_image": "supervisely/base-py:6",
+  "main_script": "src/main.py",
+  "task_location": "application_sessions",
+  "isolate": true,
+  "integrated_into": ["standalone", "image_annotation_tool"],
+  "icon": "https://img.icons8.com/color/96/000000/infinity.png",
+  "icon_background": "#FFFFFF"
+}
