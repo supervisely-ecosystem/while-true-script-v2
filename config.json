@@ -11,5 +11,8 @@
   "isolate": true,
   "integrated_into": ["standalone", "image_annotation_tool"],
   "icon": "https://img.icons8.com/color/96/000000/infinity.png",
-  "icon_background": "#FFFFFF"
+  "icon_background": "#FFFFFF",
+  "session_tags": [
+    "deployed_nn"
+  ]
 }
