@@ -13,6 +13,7 @@
   "icon": "https://img.icons8.com/color/96/000000/infinity.png",
   "icon_background": "#FFFFFF",
   "session_tags": [
-    "deployed_nn"
+    "deployed_nn",
+    "deployed_nn_cls"
   ]
 }
