@@ -15,6 +15,7 @@
   "session_tags": [
     "deployed_nn",
     "deployed_nn_cls",
-    "sly_video_tracking"
+    "sly_video_tracking",
+    "smart_segmentation"
   ]
 }
