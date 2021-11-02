@@ -16,6 +16,8 @@
     "deployed_nn",
     "deployed_nn_cls",
     "sly_video_tracking",
-    "sly_smart_annotation"
+    "sly_smart_annotation",
+    "deployed_nn_embeddings",
+    "deployed_nn_calculator"
   ]
 }
