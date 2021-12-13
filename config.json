@@ -18,6 +18,8 @@
     "sly_video_tracking",
     "sly_smart_annotation",
     "deployed_nn_embeddings",
-    "deployed_nn_recommendations"
+    "deployed_nn_recommendations",
+    "labeling_jobs"
+    
   ]
 }
