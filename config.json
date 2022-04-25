@@ -2,7 +2,9 @@
   "name": "While True Script",
   "type": "app",
   "categories": [
-    "development"
+    "development",
+    "interpolation",
+    "tracking"
   ],
   "description": "Used to create infinite task for debug",
   "docker_image": "supervisely/base-py:6",
