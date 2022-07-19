@@ -5,7 +5,7 @@
     "development"
   ],
   "description": "Used to create infinite task for debug",
-  "docker_image": "supervisely/base-py-sdk:6.35.0",
+  "docker_image": "supervisely/base-py-sdk:6.36.0",
   "main_script": "src/main.py",
   "task_location": "application_sessions",
   "isolate": true,
