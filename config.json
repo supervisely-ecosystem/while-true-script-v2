@@ -17,11 +17,13 @@
     "deployed_nn",
     "deployed_nn_cls",
     "deployed_nn_3d",
+    "deployed_nn_keypoints",
+    "deployed_nn_embeddings",
+    "deployed_nn_recommendations",
+    "deployed_nn_object_segmentation",
     "sly_video_tracking",
     "sly_smart_annotation",
-    "deployed_nn_embeddings",
     "sly_point_cloud_tracking",
-    "deployed_nn_recommendations",
     "labeling_jobs",
     "sly_interpolation"
   ]
