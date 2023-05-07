@@ -24,5 +24,10 @@
     "deployed_nn_recommendations",
     "labeling_jobs",
     "sly_interpolation"
+  ],
+  "allowed_shapes": [
+    "polygon",
+    "point",
+    "rectangle"
   ]
 }
