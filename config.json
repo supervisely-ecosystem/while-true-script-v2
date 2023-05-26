@@ -30,6 +30,6 @@
     "point",
     "rectangle",
     "graph",
-    "polyline"
+    "line"
   ]
 }
