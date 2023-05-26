@@ -29,6 +29,7 @@
     "polygon",
     "point",
     "rectangle",
-    "graph"
+    "graph",
+    "polyline"
   ]
 }
