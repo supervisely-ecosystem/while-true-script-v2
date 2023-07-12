@@ -11,7 +11,7 @@
   "task_location": "application_sessions",
   "isolate": true,
   "integrated_into": ["standalone", "image_annotation_tool"],
-  "icon": "https://img.icons8.com/color/96/000000/infinity.png",
+  "icon": "https://github.com/supervisely-ecosystem/while-true-script-v2/assets/48245050/c4a5c796-4bdb-4345-a7cf-d4346099703c",
   "icon_background": "#FFFFFF",
   "session_tags": [
     "deployed_nn",
