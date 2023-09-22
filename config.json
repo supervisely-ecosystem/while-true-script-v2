@@ -3,7 +3,9 @@
     "type": "app",
     "version": "2.0.0",
     "categories": [
-        "development"
+        "development",
+        "tracking",
+        "interpolation"
     ],
     "description": "Used to create infinite task for debug",
     "docker_image": "supervisely/development:0.0.1",
