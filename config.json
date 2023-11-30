@@ -14,7 +14,8 @@
     "isolate": true,
     "integrated_into": [
         "standalone",
-        "image_annotation_tool"
+        "image_annotation_tool",
+        "video_annotation_tool"
     ],
     "icon": "https://img.icons8.com/color/96/000000/infinity.png",
     "icon_background": "#FFFFFF",
