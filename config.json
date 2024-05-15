@@ -30,7 +30,8 @@
         "deployed_nn_recommendations",
         "labeling_jobs",
         "sly_interpolation",
-        "3d_smart_tool"
+        "3d_smart_tool",
+        "deployed_nn_object_segmentation"
     ],
     "allowed_shapes": [
         "polygon",
