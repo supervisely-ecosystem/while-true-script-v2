@@ -39,6 +39,8 @@
         "rectangle",
         "graph",
         "line",
-        "bitmap"
+        "bitmap",
+        "cuboid_3d",
+        "point_cloud"
     ]
 }
