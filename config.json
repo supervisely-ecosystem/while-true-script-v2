@@ -42,5 +42,6 @@
         "bitmap",
         "cuboid_3d",
         "point_cloud"
-    ]
+    ],
+    "min_instance_version": "6.9.11"
 }
