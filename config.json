@@ -8,7 +8,7 @@
         "interpolation"
     ],
     "description": "Used to create infinite task for debug",
-    "docker_image": "supervisely/development:0.0.1",
+    "docker_image": "supervisely/development:6.73.75",
     "main_script": "src/main.py",
     "task_location": "application_sessions",
     "isolate": true,
