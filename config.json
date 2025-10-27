@@ -33,7 +33,7 @@
         "3d_smart_tool",
         "deployed_nn_object_segmentation",
         "img_auto_labeling",
-        "sly_video_tracking"
+        "sly_video_tracking_by_detection"
     ],
     "allowed_shapes": [
         "polygon",
