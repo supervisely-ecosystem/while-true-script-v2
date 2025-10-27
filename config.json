@@ -32,7 +32,8 @@
         "sly_interpolation",
         "3d_smart_tool",
         "deployed_nn_object_segmentation",
-        "img_auto_labeling"
+        "img_auto_labeling",
+        "sly_video_tracking"
     ],
     "allowed_shapes": [
         "polygon",
