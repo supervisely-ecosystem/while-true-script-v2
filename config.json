@@ -5,7 +5,8 @@
     "categories": [
         "development",
         "detection & tracking",
-        "interpolation"
+        "interpolation",
+        "serve"
     ],
     "description": "Used to create infinite task for debug",
     "docker_image": "supervisely/development:6.73.75",
