@@ -47,5 +47,6 @@
         "cuboid_3d",
         "point_cloud"
     ],
-    "min_instance_version": "6.9.11"
+    "min_instance_version": "6.9.11",
+    "supports_ref_bbox_prompts": true
 }
