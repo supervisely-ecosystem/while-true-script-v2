@@ -9,7 +9,7 @@
         "serve"
     ],
     "description": "Used to create infinite task for debug",
-    "docker_image": "supervisely/development:6.73.75",
+    "docker_image": "supervisely/development:6.73.564",
     "main_script": "src/main.py",
     "task_location": "application_sessions",
     "isolate": true,
@@ -47,6 +47,6 @@
         "cuboid_3d",
         "point_cloud"
     ],
-    "min_instance_version": "6.9.11",
+    "instance_version": "6.15.60",
     "supports_ref_bbox_prompts": true
 }
