@@ -1,52 +1,52 @@
 {
-    "name": "Develop and Debug",
-    "type": "app",
-    "version": "2.0.0",
-    "categories": [
-        "development",
-        "detection & tracking",
-        "interpolation",
-        "serve"
-    ],
-    "description": "Used to create infinite task for debug",
-    "docker_image": "supervisely/development:6.73.75",
-    "main_script": "src/main.py",
-    "task_location": "application_sessions",
-    "isolate": true,
-    "integrated_into": [
-        "standalone",
-        "image_annotation_tool",
-        "video_annotation_tool"
-    ],
-    "icon": "https://img.icons8.com/color/96/000000/infinity.png",
-    "icon_background": "#FFFFFF",
-    "session_tags": [
-        "deployed_nn",
-        "deployed_nn_cls",
-        "deployed_nn_3d",
-        "sly_video_tracking",
-        "sly_smart_annotation",
-        "deployed_nn_embeddings",
-        "sly_point_cloud_tracking",
-        "deployed_nn_recommendations",
-        "labeling_jobs",
-        "sly_interpolation",
-        "3d_smart_tool",
-        "deployed_nn_object_segmentation",
-        "img_auto_labeling",
-        "sly_video_tracking_by_detection",
-        "img_online_learning"
-    ],
-    "allowed_shapes": [
-        "polygon",
-        "point",
-        "rectangle",
-        "graph",
-        "line",
-        "bitmap",
-        "cuboid_3d",
-        "point_cloud"
-    ],
-    "min_instance_version": "6.9.11",
-    "supports_ref_bbox_prompts": true
+  "name": "Develop and Debug",
+  "type": "app",
+  "version": "2.0.0",
+  "categories": [
+    "development",
+    "detection & tracking",
+    "interpolation",
+    "serve"
+  ],
+  "description": "Used to create infinite task for debug",
+  "docker_image": "supervisely/base-py-sdk-hardened:6.73.564",
+  "main_script": "src/main.py",
+  "task_location": "application_sessions",
+  "isolate": true,
+  "integrated_into": [
+    "standalone",
+    "image_annotation_tool",
+    "video_annotation_tool"
+  ],
+  "icon": "https://img.icons8.com/color/96/000000/infinity.png",
+  "icon_background": "#FFFFFF",
+  "session_tags": [
+    "deployed_nn",
+    "deployed_nn_cls",
+    "deployed_nn_3d",
+    "sly_video_tracking",
+    "sly_smart_annotation",
+    "deployed_nn_embeddings",
+    "sly_point_cloud_tracking",
+    "deployed_nn_recommendations",
+    "labeling_jobs",
+    "sly_interpolation",
+    "3d_smart_tool",
+    "deployed_nn_object_segmentation",
+    "img_auto_labeling",
+    "sly_video_tracking_by_detection",
+    "img_online_learning"
+  ],
+  "allowed_shapes": [
+    "polygon",
+    "point",
+    "rectangle",
+    "graph",
+    "line",
+    "bitmap",
+    "cuboid_3d",
+    "point_cloud"
+  ],
+  "instance_version": "6.15.60",
+  "supports_ref_bbox_prompts": true
 }
